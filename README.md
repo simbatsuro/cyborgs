@@ -1,6 +1,6 @@
 sudo apt-get install php7.0-sqlite
 
-run composer require 
+run composer install 
 
 #### File Handling
 The program is designed to work with large files above PHP's default file size limit. To enable users
