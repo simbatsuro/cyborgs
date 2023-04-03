@@ -1,1 +1,4 @@
 output/
+uploads/
+vendor/
+cyborgs_registry.sqlite
